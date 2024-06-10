@@ -1,0 +1,295 @@
+Abdon Batista | Num, de Hab.: 2.085 | Gentílico: abdon-batistense
+Abelardo Luz | Num, de Hab.: 16.078 | Gentílico: abelardense
+Agrolândia | Num, de Hab.: 9.849 | Gentílico: agrolandense
+Agronômica | Num, de Hab.: 4.301 | Gentílico: agronômico
+Água Doce | Num, de Hab.: 6.165 | Gentílico: água-docense
+Águas de Chapecó | Num, de Hab.: 9.180 | Gentílico: águas-chapecoense
+Águas Frias | Num, de Hab.: 2.742 | Gentílico: águas-friense
+Águas Mornas | Num, de Hab.: 6.418 | Gentílico: águas-mornense
+Alfredo Wagner | Num, de Hab.: 8.538 | Gentílico: alfredo-wagnense
+Alto Bela Vista | Num, de Hab.: 1.609 | Gentílico: alto-bela-vistense
+Anchieta | Num, de Hab.: 4.545 | Gentílico: anchietense
+Angelina | Num, de Hab.: 5.759 | Gentílico: angelinense
+Anita Garibaldi | Num, de Hab.: 4.546 | Gentílico: anita-garibaldense
+Anitápolis | Num, de Hab.: 3.939 | Gentílico: anitapolitano
+Antônio Carlos | Num, de Hab.: 9.253 | Gentílico: antônio-carlense
+Apiúna | Num, de Hab.: 9.883 | Gentílico: apiunense
+Arabutã | Num, de Hab.: 4.544 | Gentílico: arabutanense
+Araquari | Num, de Hab.: 32.786 | Gentílico: araquariense
+Araranguá | Num, de Hab.: 68.228 | Gentílico: araranguaense
+Armazém | Num, de Hab.: 4.466 | Gentílico: armazemense
+Arroio Trinta | Num, de Hab.: 4.412 | Gentílico: arroio-trintense
+Arvoredo | Num, de Hab.: 2.780 | Gentílico: arvoredense
+Ascurra | Num, de Hab.: 7.719 | Gentílico: ascurrense
+Atalanta | Num, de Hab.: 2.892 | Gentílico: atalantense
+Aurora | Num, de Hab.: 9.606 | Gentílico: aurorense
+Balneário Arroio do Silva | Num, de Hab.: 11.498 | Gentílico: balneário-arroio-silvense
+Balneário Barra do Sul | Num, de Hab.: 12.256 | Gentílico: barra-sulense
+Balneário Camboriú | Num, de Hab.: 148.085 | Gentílico: camboriuense
+Balneário Gaivota | Num, de Hab.: 9.889 | Gentílico: gaivotense
+Balneário Piçarras | Num, de Hab.: 22.789 | Gentílico: piçarrense
+Balneário Rincão | Num, de Hab.: 13.483 | Gentílico: rincãoense
+Bandeirante | Num, de Hab.: 4.939 | Gentílico: bandeirantense
+Barra Bonita | Num, de Hab.: 2.975 | Gentílico: barra-bonitense
+Barra Velha | Num, de Hab.: 30.221 | Gentílico: barra-velhense
+Bela Vista do Toldo | Num, de Hab.: 5.346 | Gentílico: bela-vistense
+Belmonte | Num, de Hab.: 2.783 | Gentílico: belmontense
+Benedito Novo | Num, de Hab.: 11.366 | Gentílico: benedito-novense
+Biguaçu | Num, de Hab.: 67.097 | Gentílico: biguaçuense
+Blumenau | Num, de Hab.: 363.375 | Gentílico: blumenauense
+Bocaina do Sul | Num, de Hab.: 7.591 | Gentílico: bocaina-sulense
+Bom Jardim da Serra | Num, de Hab.: 5.691 | Gentílico: bom-jardinense
+Bom Jesus | Num, de Hab.: 5.836 | Gentílico: bom-jesuense
+Bom Jesus do Oeste | Num, de Hab.: 2.545 | Gentílico: bom-jesuense
+Bom Retiro | Num, de Hab.: 6.809 | Gentílico: bom-retirense
+Bombinhas | Num, de Hab.: 20.748 | Gentílico: bombinense
+Botuverá | Num, de Hab.: 4.423 | Gentílico: botuveraense
+Braço do Norte | Num, de Hab.: 33.227 | Gentílico: braçonortense
+Braço do Trombudo | Num, de Hab.: 7.598 | Gentílico: braço-trombudense
+Brunópolis | Num, de Hab.: 3.298 | Gentílico: brunopolitano
+Brusque | Num, de Hab.: 131.264 | Gentílico: brusquense
+Caçador | Num, de Hab.: 80.292 | Gentílico: caçadorense
+Caibi | Num, de Hab.: 4.416 | Gentílico: caibiense
+Calmon | Num, de Hab.: 3.510 | Gentílico: calmonense
+Camboriú | Num, de Hab.: 82.383 | Gentílico: camboriuense
+Campo Alegre | Num, de Hab.: 14.423 | Gentílico: campo-alegrense
+Campo Belo do Sul | Num, de Hab.: 5.436 | Gentílico: campo-belense
+Campo Erê | Num, de Hab.: 7.378 | Gentílico: campo-erense
+Campos Novos | Num, de Hab.: 35.100 | Gentílico: campos-novense
+Canelinha | Num, de Hab.: 15.402 | Gentílico: canelinhense
+Canoinhas | Num, de Hab.: 54.347 | Gentílico: canoinhense
+Capão Alto | Num, de Hab.: 3.945 | Gentílico: capão-altense
+Capinzal | Num, de Hab.: 21.089 | Gentílico: capinzalense
+Capivari de Baixo | Num, de Hab.: 23.760 | Gentílico: capivari-baixense
+Catanduvas | Num, de Hab.: 12.214 | Gentílico: catanduvense
+Caxambu do Sul | Num, de Hab.: 2.732 | Gentílico: caxambuense
+Celso Ramos | Num, de Hab.: 5.862 | Gentílico: celso-ramense
+Cerro Negro | Num, de Hab.: 2.924 | Gentílico: cerro-negrense
+Chapadão do Lageado | Num, de Hab.: 3.285 | Gentílico: chapadão-lageadense
+Chapecó | Num, de Hab.: 222.561 | Gentílico: chapecoense
+Cocal do Sul | Num, de Hab.: 14.276 | Gentílico: cocalense
+Concórdia | Num, de Hab.: 75.948 | Gentílico: concordiense
+Cordilheira Alta | Num, de Hab.: 3.814 | Gentílico: cordilheirense
+Coronel Freitas | Num, de Hab.: 6.503 | Gentílico: coronel-freitense
+Coronel Martins | Num, de Hab.: 3.344 | Gentílico: coronel-martinsense
+Correia Pinto | Num, de Hab.: 13.818 | Gentílico: correia-pintense
+Corupá | Num, de Hab.: 15.684 | Gentílico: corupaense
+Criciúma | Num, de Hab.: 217.047 | Gentílico: criciumense
+Cunha Porã | Num, de Hab.: 11.285 | Gentílico: cunha-poraense
+Cunhataí | Num, de Hab.: 2.978 | Gentílico: cunhataiense
+Curitibanos | Num, de Hab.: 42.685 | Gentílico: curitibanense
+Descanso | Num, de Hab.: 9.289 | Gentílico: descansense
+Dionísio Cerqueira | Num, de Hab.: 19.437 | Gentílico: dionisense
+Dona Emma | Num, de Hab.: 3.735 | Gentílico: dona-emmense
+Doutor Pedrinho | Num, de Hab.: 4.315 | Gentílico: pedrinhense
+Entre Rios | Num, de Hab.: 2.891 | Gentílico: entre-riense
+Ermo | Num, de Hab.: 3.303 | Gentílico: ermense
+Erval Velho | Num, de Hab.: 3.964 | Gentílico: ervalense
+Faxinal dos Guedes | Num, de Hab.: 7.532 | Gentílico: faxinalense
+Flor do Sertão | Num, de Hab.: 2.992 | Gentílico: flor-sertanense
+Florianópolis | Num, de Hab.: 508.826 | Gentílico: florianopolitano
+Formosa do Sul | Num, de Hab.: 3.986 | Gentílico: formosense
+Forquilhinha | Num, de Hab.: 28.382 | Gentílico: forquilhinhense
+Fraiburgo | Num, de Hab.: 38.529 | Gentílico: fraiburguense
+Frei Rogério | Num, de Hab.: 3.460 | Gentílico: frei-rogeriense
+Galvão | Num, de Hab.: 2.220 | Gentílico: galvãoense
+Garopaba | Num, de Hab.: 23.997 | Gentílico: garopabense
+Garuva | Num, de Hab.: 19.810 | Gentílico: garuvense
+Gaspar | Num, de Hab.: 71.295 | Gentílico: gasparense
+Governador Celso Ramos | Num, de Hab.: 4.984 | Gentílico: governador-celso-ramense
+Grão-Pará | Num, de Hab.: 6.665 | Gentílico: grão-paraense
+Gravatal | Num, de Hab.: 12.949 | Gentílico: gravatalense
+Guabiruba | Num, de Hab.: 11.805 | Gentílico: guabirubense
+Guaraciaba | Num, de Hab.: 12.129 | Gentílico: guaraciabano
+Guaramirim | Num, de Hab.: 27.727 | Gentílico: guaramirense
+Guarujá do Sul | Num, de Hab.: 6.732 | Gentílico: guarujaense
+Guatambu | Num, de Hab.: 4.695 | Gentílico: guatambuense
+Herval d'Oeste | Num, de Hab.: 21.578 | Gentílico: hervalense
+Ibiam | Num, de Hab.: 2.959 | Gentílico: ibiense
+Ibicaré | Num, de Hab.: 6.316 | Gentílico: ibicareense
+Ibirama | Num, de Hab.: 19.738 | Gentílico: ibiramense
+Içara | Num, de Hab.: 55.052 | Gentílico: içarense
+Ilhota | Num, de Hab.: 11.549 | Gentílico: ilhotense
+Imaruí | Num, de Hab.: 10.623 | Gentílico: imaruíno
+Imbituba | Num, de Hab.: 45.819 | Gentílico: imbitubense
+Imbuia | Num, de Hab.: 3.915 | Gentílico: imbuiense
+Indaial | Num, de Hab.: 70.423 | Gentílico: indaialense
+Iomerê | Num, de Hab.: 2.520 | Gentílico: iomerense
+Ipira | Num, de Hab.: 3.530 | Gentílico: ipirense
+Iporã do Oeste | Num, de Hab.: 6.138 | Gentílico: iporã-oestino
+Ipuaçu | Num, de Hab.: 8.539 | Gentílico: ipuaçuense
+Ipumirim | Num, de Hab.: 4.963 | Gentílico: ipumirinense
+Iraceminha | Num, de Hab.: 1.907 | Gentílico: iraceminhense
+Irani | Num, de Hab.: 6.452 | Gentílico: iraniense
+Irati | Num, de Hab.: 5.917 | Gentílico: iratiense
+Irineópolis | Num, de Hab.: 7.506 | Gentílico: irineopolitano
+Itá | Num, de Hab.: 10.672 | Gentílico: itaense
+Itaiópolis | Num, de Hab.: 19.647 | Gentílico: itaiopolense
+Itajaí | Num, de Hab.: 216.034 | Gentílico: itajaiense
+Itapema | Num, de Hab.: 72.711 | Gentílico: itapemense
+Itapiranga | Num, de Hab.: 18.611 | Gentílico: itapiranguense
+Itapoá | Num, de Hab.: 24.687 | Gentílico: itapoaense
+Ituporanga | Num, de Hab.: 22.722 | Gentílico: ituporanguense
+Jaborá | Num, de Hab.: 3.699 | Gentílico: jaboraense
+Jacinto Machado | Num, de Hab.: 9.312 | Gentílico: jacinto-machadense
+Jaguaruna | Num, de Hab.: 17.416 | Gentílico: jaguarunense
+Jaraguá do Sul | Num, de Hab.: 180.076 | Gentílico: jaraguaense
+Jardinópolis | Num, de Hab.: 3.295 | Gentílico: jardinopolitano
+Joaçaba | Num, de Hab.: 30.332 | Gentílico: joaçabense
+Joinville | Num, de Hab.: 590.466 | Gentílico: joinvilense
+Jupiá | Num, de Hab.: 2.862 | Gentílico: jupiense
+Lacerdópolis | Num, de Hab.: 4.095 | Gentílico: lacerdopolense
+Lages | Num, de Hab.: 158.346 | Gentílico: lageano
+Laguna | Num, de Hab.: 45.888 | Gentílico: lagunense
+Lajeado Grande | Num, de Hab.: 3.392 | Gentílico: lajeado-grandense
+Laurentino | Num, de Hab.: 3.479 | Gentílico: laurentinense
+Lauro Müller | Num, de Hab.: 16.231 | Gentílico: lauro-müllense
+Lebon Régis | Num, de Hab.: 9.542 | Gentílico: lebon-regense
+Leoberto Leal | Num, de Hab.: 4.503 | Gentílico: leobertense
+Lindóia do Sul | Num, de Hab.: 3.799 | Gentílico: lindoiense
+Lontras | Num, de Hab.: 11.476 | Gentílico: lontrense
+Luiz Alves | Num, de Hab.: 16.372 | Gentílico: luizalvense
+Luzerna | Num, de Hab.: 5.418 | Gentílico: luzernense
+Macieira | Num, de Hab.: 2.387 | Gentílico: macieirense
+Mafra | Num, de Hab.: 58.290 | Gentílico: mafrense
+Major Gercino | Num, de Hab.: 5.254 | Gentílico: major-gercinense
+Major Vieira | Num, de Hab.: 7.107 | Gentílico: major-vieirense
+Maracajá | Num, de Hab.: 9.710 | Gentílico: maracajaense
+Maravilha | Num, de Hab.: 20.513 | Gentílico: maravilhense
+Marema | Num, de Hab.: 2.627 | Gentílico: maremense
+Massaranduba | Num, de Hab.: 16.768 | Gentílico: massarandubense
+Matos Costa | Num, de Hab.: 2.876 | Gentílico: matos-costense
+Meleiro | Num, de Hab.: 8.850 | Gentílico: meleirense
+Mirim Doce | Num, de Hab.: 2.644 | Gentílico: mirim-docense
+Modelo | Num, de Hab.: 4.644 | Gentílico: modelense
+Mondaí | Num, de Hab.: 11.299 | Gentílico: mondaizense
+Monte Carlo | Num, de Hab.: 3.828 | Gentílico: monte-carlense
+Monte Castelo | Num, de Hab.: 7.589 | Gentílico: monte-castelense
+Morro da Fumaça | Num, de Hab.: 14.937 | Gentílico: morro-fumacense
+Morro Grande | Num, de Hab.: 4.086 | Gentílico: morro-grandense
+Navegantes | Num, de Hab.: 81.228 | Gentílico: navegantense
+Nova Erechim | Num, de Hab.: 5.186 | Gentílico: nova-erechinense
+Nova Itaberaba | Num, de Hab.: 2.890 | Gentílico: nova-itaberabense
+Nova Trento | Num, de Hab.: 12.904 | Gentílico: trentino
+Nova Veneza | Num, de Hab.: 14.748 | Gentílico: neoveneziano
+Novo Horizonte | Num, de Hab.: 3.537 | Gentílico: horizontino
+Orleans | Num, de Hab.: 22.771 | Gentílico: orleanense
+Otacílio Costa | Num, de Hab.: 15.720 | Gentílico: otaciliense
+Ouro | Num, de Hab.: 3.860 | Gentílico: ourense
+Ouro Verde | Num, de Hab.: 4.813 | Gentílico: ouro-verdense
+Paial | Num, de Hab.: 3.832 | Gentílico: paialense
+Painel | Num, de Hab.: 3.055 | Gentílico: painelense
+Palhoça | Num, de Hab.: 177.038 | Gentílico: palhocense
+Palma Sola | Num, de Hab.: 9.477 | Gentílico: palmense
+Palmeira | Num, de Hab.: 3.548 | Gentílico: palmeirense
+Palmitos | Num, de Hab.: 17.877 | Gentílico: palmitense
+Papanduva | Num, de Hab.: 22.330 | Gentílico: papanduvense
+Paraíso | Num, de Hab.: 3.157 | Gentílico: paraísoense
+Passo de Torres | Num, de Hab.: 6.077 | Gentílico: passo-torrense
+Passos Maia | Num, de Hab.: 2.938 | Gentílico: passo-maiense
+Paulo Lopes | Num, de Hab.: 7.697 | Gentílico: paulo-lopesense
+Pedras Grandes | Num, de Hab.: 3.805 | Gentílico: pedras-grandense
+Penha | Num, de Hab.: 30.228 | Gentílico: penhense
+Peritiba | Num, de Hab.: 2.553 | Gentílico: peritibense
+Pescaria Brava | Num, de Hab.: 4.815 | Gentílico: pescaria-bravense
+Petrolândia | Num, de Hab.: 6.587 | Gentílico: petrolandense
+Pinhalzinho | Num, de Hab.: 20.420 | Gentílico: pinhalense
+Pinheiro Preto | Num, de Hab.: 2.617 | Gentílico: pinheiro-pretense
+Piratuba | Num, de Hab.: 4.488 | Gentílico: piratubense
+Planalto Alegre | Num, de Hab.: 2.772 | Gentílico: planalto-alegrense
+Pomerode | Num, de Hab.: 35.025 | Gentílico: pomerodense
+Ponte Alta | Num, de Hab.: 6.281 | Gentílico: ponte-altense
+Ponte Alta do Norte | Num, de Hab.: 3.457 | Gentílico: ponte-altense-do-norte
+Ponte Serrada | Num, de Hab.: 8.822 | Gentílico: ponte-serradense
+Porto Belo | Num, de Hab.: 24.826 | Gentílico: porto-belense
+Porto União | Num, de Hab.: 35.715 | Gentílico: porto-unionense
+Pouso Redondo | Num, de Hab.: 14.176 | Gentílico: pouso-redondense
+Praia Grande | Num, de Hab.: 8.140 | Gentílico: praia-grandense
+Presidente Castello Branco | Num, de Hab.: 3.873 | Gentílico: castelo-branquense
+Presidente Getúlio | Num, de Hab.: 17.893 | Gentílico: getuliense
+Presidente Nereu | Num, de Hab.: 3.074 | Gentílico: nereuense
+Princesa | Num, de Hab.: 2.582 | Gentílico: princesense
+Quilombo | Num, de Hab.: 16.034 | Gentílico: quilombense
+Rancho Queimado | Num, de Hab.: 3.663 | Gentílico: rancho-queimadense
+Rio das Antas | Num, de Hab.: 2.607 | Gentílico: rio-antense
+Rio do Campo | Num, de Hab.: 6.248 | Gentílico: rio-campense
+Rio do Oeste | Num, de Hab.: 6.143 | Gentílico: rio-oestense
+Rio do Sul | Num, de Hab.: 70.693 | Gentílico: rio-sulense
+Rio dos Cedros | Num, de Hab.: 9.551 | Gentílico: cedrense
+Rio Fortuna | Num, de Hab.: 7.465 | Gentílico: rio-fortunense
+Rio Negrinho | Num, de Hab.: 42.352 | Gentílico: rio-negrinhense
+Rio Rufino | Num, de Hab.: 3.597 | Gentílico: rio-rufinense
+Riqueza | Num, de Hab.: 2.834 | Gentílico: riquezense
+Rodeio | Num, de Hab.: 11.272 | Gentílico: rodeense
+Romelândia | Num, de Hab.: 3.485 | Gentílico: romelandense
+Salete | Num, de Hab.: 9.089 | Gentílico: saletense
+Saltinho | Num, de Hab.: 5.418 | Gentílico: saltinhense
+Salto Veloso | Num, de Hab.: 2.906 | Gentílico: salto-velosense
+Sangão | Num, de Hab.: 9.127 | Gentílico: sangaonense
+Santa Cecília | Num, de Hab.: 19.720 | Gentílico: ceciliense
+Santa Helena | Num, de Hab.: 7.413 | Gentílico: santa-helenense
+Santa Rosa de Lima | Num, de Hab.: 4.135 | Gentílico: santa-rosense
+Santa Rosa do Sul | Num, de Hab.: 9.109 | Gentílico: santa-rosense
+Santa Terezinha | Num, de Hab.: 4.513 | Gentílico: santa-terezinhense
+Santa Terezinha do Progresso | Num, de Hab.: 2.094 | Gentílico: santa-terezinhense-do-progresso
+Santiago do Sul | Num, de Hab.: 2.489 | Gentílico: santiaguense
+Santo Amaro da Imperatriz | Num, de Hab.: 22.508 | Gentílico: santo-amarense
+São Bento do Sul | Num, de Hab.: 85.313 | Gentílico: são-bentense
+São Bernardino | Num, de Hab.: 3.643 | Gentílico: são-bernardinense
+São Bonifácio | Num, de Hab.: 3.338 | Gentílico: são-bonifaciano
+São Carlos | Num, de Hab.: 7.592 | Gentílico: são-carlense
+São Cristóvão do Sul | Num, de Hab.: 6.317 | Gentílico: são-cristovense
+São Domingos | Num, de Hab.: 14.912 | Gentílico: são-dominguense
+São Francisco do Sul | Num, de Hab.: 54.972 | Gentílico: francisquense
+São José | Num, de Hab.: 244.979 | Gentílico: josefense
+São João Batista | Num, de Hab.: 34.296 | Gentílico: são-joão-batistense
+São João do Itaperiú | Num, de Hab.: 5.254 | Gentílico: são-joão-do-itaperiuense
+São João do Oeste | Num, de Hab.: 4.272 | Gentílico: são-joão-oestense
+São João do Sul | Num, de Hab.: 6.502 | Gentílico: são-joão-sulense
+São Joaquim | Num, de Hab.: 27.813 | Gentílico: joaquinense
+São José | Num, de Hab.: 244.979 | Gentílico: josefense
+São José do Cedro | Num, de Hab.: 11.486 | Gentílico: cedrense
+São José do Cerrito | Num, de Hab.: 8.414 | Gentílico: cerritense
+São Lourenço do Oeste | Num, de Hab.: 21.313 | Gentílico: são-lourenciano
+São Ludgero | Num, de Hab.: 11.922 | Gentílico: são-ludgerense
+São Martinho | Num, de Hab.: 7.513 | Gentílico: são-martinhense
+São Miguel da Boa Vista | Num, de Hab.: 3.538 | Gentílico: são-miguelense
+São Miguel do Oeste | Num, de Hab.: 38.535 | Gentílico: são-miguelense
+São Pedro de Alcântara | Num, de Hab.: 6.855 | Gentílico: alcantarense
+Saudades | Num, de Hab.: 9.015 | Gentílico: saudadense
+Schroeder | Num, de Hab.: 22.615 | Gentílico: schroedense
+Seara | Num, de Hab.: 18.833 | Gentílico: searense
+Serra Alta | Num, de Hab.: 2.713 | Gentílico: serra-altense
+Siderópolis | Num, de Hab.: 14.934 | Gentílico: sideropolitano
+Sombrio | Num, de Hab.: 30.914 | Gentílico: sombriense
+Sul Brasil | Num, de Hab.: 3.205 | Gentílico: sul-brasilense
+Taió | Num, de Hab.: 18.972 | Gentílico: taiense
+Tangará | Num, de Hab.: 11.612 | Gentílico: tangaraense
+Tigrinhos | Num, de Hab.: 2.771 | Gentílico: tigrinhense
+Tijucas | Num, de Hab.: 43.177 | Gentílico: tijuquense
+Timbé do Sul | Num, de Hab.: 3.056 | Gentílico: timbeense
+Timbó | Num, de Hab.: 42.822 | Gentílico: timboense
+Timbó Grande | Num, de Hab.: 3.458 | Gentílico: timbo-grandense
+Três Barras | Num, de Hab.: 19.911 | Gentílico: três-barrense
+Treviso | Num, de Hab.: 4.047 | Gentílico: trevisano
+Treze de Maio | Num, de Hab.: 6.729 | Gentílico: trezemaiense
+Treze Tílias | Num, de Hab.: 7.743 | Gentílico: trezetiliense
+Trombudo Central | Num, de Hab.: 8.271 | Gentílico: trombudense
+Tubarão | Num, de Hab.: 105.868 | Gentílico: tubaronense
+Tunápolis | Num, de Hab.: 4.081 | Gentílico: tunapolitano
+Turvo | Num, de Hab.: 13.996 | Gentílico: turvense
+União do Oeste | Num, de Hab.: 3.359 | Gentílico: união-oestino
+Urubici | Num, de Hab.: 11.544 | Gentílico: urubiciense
+Urupema | Num, de Hab.: 2.856 | Gentílico: urupemense
+Urussanga | Num, de Hab.: 21.959 | Gentílico: urussanguense
+Vargeão | Num, de Hab.: 2.891 | Gentílico: vargeonense
+Vargem | Num, de Hab.: 11.152 | Gentílico: vargense
+Vargem Bonita | Num, de Hab.: 5.442 | Gentílico: vargem-bonitense
+Vidal Ramos | Num, de Hab.: 3.039 | Gentílico: vidal-ramense
+Videira | Num, de Hab.: 54.724 | Gentílico: videirense
+Vitor Meireles | Num, de Hab.: 2.992 | Gentílico: vitor-meirelense
+Witmarsum | Num, de Hab.: 3.283 | Gentílico: witmarsumense
+Xanxerê | Num, de Hab.: 53.528 | Gentílico: xanxerense
+Xavantina | Num, de Hab.: 6.272 | Gentílico: xavantinense
+Xaxim | Num, de Hab.: 29.372 | Gentílico: xaxinense
+Zortéa | Num, de Hab.: 2.849 | Gentílico: zorteano
