@@ -1,3 +1,6 @@
+import mysql.connector
+from mysql.connector import Error
+
 #Cria objeto
 class Planta:
   def __init__(self, nome, temperatura, iluminacao, umidade, solo):
@@ -7,6 +10,8 @@ class Planta:
     self.umidade = umidade
     self.solo = solo
   
+#####################################
+
 def temperaturaPlanta(temperatura, temperaturaBD):
   temp = temperaturaBD
   if temperatura < temperaturaBD:
@@ -47,49 +52,66 @@ def rotaVerifica(rota):
     return False
   else:
     return True
-  
-# banco de dados (como o banco é local coloquei os valores pré definidos aqui, caso ele não ache a planta ele retorna como "planta não encontrada")
-nome = "TOMATE"
-temperaturaDb = 30
-iluminacaoBD = "DIRETA" 
-soloBD = "AREIA"
-umidadeBD = 2
-# banco de dados
-inicio = True
+###############banco de dados###############
 
+
+def consultar(connection, nome_planta):
+    if connection is None:
+        print("Não foi possível conectar ao banco de dados.")
+        return None
+
+    cursor = connection.cursor()
+    try:
+        cursor.execute("SELECT * FROM plantas WHERE nome = %s", (nome_planta,))
+        planta = cursor.fetchone()
+        return planta
+    except Error as e:
+        print(f"Ocorreu um erro ao executar a consulta: {e}")
+        return None
+############################
+
+inicio = True
  
 while inicio:
    
-
   verifica = input("Deseja iniciar S ou N: ")
   inicio = rotaVerifica(verifica.upper())
 
   if inicio:
     nome = (input("Digite o nome da sua planta: "))
-    temp = int(input("Digite a temperatura do ambiente em que sua planta está: "))
-    print("Digite a exposição média ao sol da sua planta")
-    ilum = (input("Exposição direta, indireta ou nula: "))
-    umid = input("Digita quantas vezes rega a planta na semana: ")
-    print("Digite o tipo de solo em que sua planta está")
-    solo = input("areia, terra, argila, pedra ou água: ")
-    planta = Planta(nome.upper(), temp, ilum.upper(), umid, solo.upper())
-    print(planta.temperatura)
+    plantadb = (consultar(mysql.connector.connect(
+          host = "localhost",
+          user = "root",
+          password = "Dededsg@05062005",
+          database = "crudpontotrack"
+        ), nome))
+    if(plantadb != None):  
+      temp = int(input("Digite a temperatura do ambiente em que sua planta está: "))
+      print("Digite a exposição média ao sol da sua planta")
+      ilum = (input("Exposição direta, indireta ou nula: "))
+      umid = input("Digita quantas vezes rega a planta na semana: ")
+      print("Digite o tipo de solo em que sua planta está")
+      solo = input("areia, terra, argila, pedra ou água: ")
+      planta = Planta(nome.upper(), temp, ilum.upper(), umid, solo.upper())
+      print(planta.temperatura)
 
-    print(" ")
-    print("+++++|FLORESTAR|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
-    print(" ")
-
-    temperaturaResult = temperaturaPlanta(planta.temperatura, temperaturaDb)
-    print(temperaturaResult)
+      print(" ")
+      print("+++++|CULTIVAR|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
+      print(" ")
+    
+      temperaturaResult = temperaturaPlanta(planta.temperatura, plantadb[1])
+      print(temperaturaResult)
   
-    iluminacaoResult = iluminacaoPlanta(planta.iluminacao, iluminacaoBD)
-    print(iluminacaoResult)
+      iluminacaoResult = iluminacaoPlanta(planta.iluminacao, plantadb[2])
+      print(iluminacaoResult)
   
-    umidadeResult = umidadePlanta(planta.umidade, umidadeBD)
-    print(umidadeResult)
+      umidadeResult = umidadePlanta(planta.umidade, plantadb[4])
+      print(umidadeResult)
   
-    soloResult = soloPlanta(planta.solo, soloBD)
-    print(soloResult)
+      soloResult = soloPlanta(planta.solo, plantadb[3])
+      print(soloResult)
+    else:
+      print("+++++++++++|Planta não encontrada|+++++++++")
 
 print(" ")
 print("+++++|FIM|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
